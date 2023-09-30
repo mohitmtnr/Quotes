@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ragevision/static/css/main.3222bfe5.css",
+    "main.js": "/ragevision/static/js/main.6a9d4ff8.js",
+    "static/js/787.bf514722.chunk.js": "/ragevision/static/js/787.bf514722.chunk.js",
+    "static/media/background.jpg": "/ragevision/static/media/background.cc351ee4dea88b1fddca.jpg",
+    "index.html": "/ragevision/index.html",
+    "main.3222bfe5.css.map": "/ragevision/static/css/main.3222bfe5.css.map",
+    "main.6a9d4ff8.js.map": "/ragevision/static/js/main.6a9d4ff8.js.map",
+    "787.bf514722.chunk.js.map": "/ragevision/static/js/787.bf514722.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3222bfe5.css",
+    "static/js/main.6a9d4ff8.js"
+  ]
+}
